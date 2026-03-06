@@ -1,0 +1,5 @@
+{
+  "name": "AgriVerse AI",
+  "description": "Smart Soil. Smart Farming. Analyze soil health and get AI-powered fertilizer recommendations for better crop yield and sustainability.",
+  "requestFramePermissions": ["microphone"]
+}
